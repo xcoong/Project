@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.atguigu.util.MyDataUtil&apos; to &apos;MyDateUtil&apos;&#x0D;&#x0A;- Original project: &apos;mall_1018_sale_student&apos;&#x0D;&#x0A;- Original element: &apos;com.atguigu.util.MyDataUtil&apos;&#x0D;&#x0A;- Renamed element: &apos;com.atguigu.util.MyDateUtil&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyDataUtil&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.atguigu.util{MyDataUtil.java[MyDataUtil" matchStrategy="1" name="MyDateUtil" qualified="false" references="true" similarDeclarations="false" stamp="1523172386754" textual="false" version="1.0"/>
+</session>

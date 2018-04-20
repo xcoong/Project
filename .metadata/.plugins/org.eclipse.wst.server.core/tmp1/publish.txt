@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Apr 10 16:54:21 CST 2018
+org.eclipse.jst.jee.server\:/binary\:E\:\\atcrowdfunding\\maven\\maven\\org\\springframework\\spring-web\\4.3.7.RELEASE\\spring-web-4.3.7.RELEASE.jar=WEB-INF/lib/spring-web-4.3.7.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\atcrowdfunding\\maven\\maven\\org\\springframework\\spring-web\\4.0.0.RELEASE\\spring-web-4.0.0.RELEASE.jar=WEB-INF/lib/spring-web-4.0.0.RELEASE.jar

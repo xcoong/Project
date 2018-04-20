@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1523961830358_2" label="DS_1018" name="DS_1018">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+<item elementID="=mall_1018_user_student" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=mq_1018_comsumer" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=mq_1018_producer" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=payservice" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=order_test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=mall_1018_sale_controller" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=mall_1018_keywords_student" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=mall_1018_sale_service" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=mall_1018_manage_student" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1523965195594_4" label="springcloud" name="springcloud">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8001" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-eureka-7001" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-consumer-dept-80" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-eureka-7002" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-eureka-7003" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8002" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8003" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-consumer-dept-feign" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1521789966270_0" label="Window Working Set" name="Aggregate for window 1521789966270"/>
+</workingSetManager>

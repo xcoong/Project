@@ -1,0 +1,13 @@
+1523438752908	Rename Java project 'mall_1018_keywords_teacher'
+1523619610432	Rename resource 'mall_1018_sale_student'
+1523619707331	Delete 5 resources
+1523619733435	Delete resource 'mall_1018_sale_controller/src/main/java/com/atguigu/mapper'
+1523619769670	Delete 3 resources
+1523620087693	Delete resource 'mall_1018_sale_service/src/main/java/com/atguigu/controller'
+1523620093450	Delete resource 'mall_1018_sale_service/src/main/java/com/atguigu/server'
+1523620131550	Delete resource 'mall_1018_sale_service/src/main/resources/redis.properties'
+1523620135017	Delete resource 'mall_1018_sale_service/src/main/resources/spring-mvc.xml'
+1523620192253	Delete resource 'mall_1018_sale_service/src/main/webapp/index.jsp'
+1523620206505	Delete 4 resources
+1523620244776	Delete resource 'mall_1018_sale_service/src/main/webapp/WEB-INF/index.jsp'
+1523620251997	Delete 20 resources
